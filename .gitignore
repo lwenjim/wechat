@@ -1,0 +1,12 @@
+/vendor
+/.idea
+/storage
+.process
+Homestead.json
+Homestead.yaml
+composer.lock
+.env
+/database
+.DS_Store
+app/.DS_Store
+app/Http/.DS_Store
